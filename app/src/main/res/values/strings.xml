@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Heart Rate Monitor</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="share">Share</string>
+    <string name="note">Put your finger on the back camera</string>
+    <string name="banner_ad">ca-app-pub-3531666375863646/3523462794</string>
+    <string name="interstitial_ad">ca-app-pub-3531666375863646/6313277663</string>
+    <string name="check_again">Check again</string>
+    <string name="other_apps">Other Apps</string>
+</resources>
